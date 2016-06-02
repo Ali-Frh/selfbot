@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
     return [[SelfBot V 1.85✌
-A KosSher SelfBot Based On My Dick :D☢
+A KosSher SelfBot Based On Kir Mamad 😂☢
 Developed By Think Team🔹
 Think Team Members👇
  🌐 #SikTirMirza (Ali Think)
